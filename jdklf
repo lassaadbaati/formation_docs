@@ -1,0 +1,85 @@
+* [33mcommit e738dcc6c5810db7cef3893ee00ec87ceb722728[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m)[m
+[31m|[m Author: ouel BOUMIIZA <bzwael@gmail.com>
+[31m|[m Date:   Tue Nov 19 12:29:52 2019 +0100
+[31m|[m 
+[31m|[m     commit 3
+[31m|[m     
+[31m|[m *   [33mcommit 4099a91e528a5bd6c18cb6aec3f6479507d0f0b1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m [32m|[m[33m\[m  Merge: ed070a5 2638ba5
+[31m|[m [32m|[m [33m|[m Author: Lassaad BAATI <lassaad.baati@gmail.com>
+[31m|[m [32m|[m [33m|[m Date:   Tue Nov 19 10:54:27 2019 +0100
+[31m|[m [32m|[m [33m|[m 
+[31m|[m [32m|[m [33m|[m     Merge branch 'test add file 2'
+[31m|[m [32m|[m [33m|[m 
+[31m|[m [32m|[m * [33mcommit 2638ba5e5ec6ea4d25c315c17be3f64754890a81[m
+[31m|[m [32m|[m [33m|[m Author: Lassaad BAATI <lassaad.baati@gmail.com>
+[31m|[m [32m|[m [33m|[m Date:   Tue Nov 19 09:36:33 2019 +0100
+[31m|[m [32m|[m [33m|[m 
+[31m|[m [32m|[m [33m|[m     commit 10 : Formation git Partie 2
+[31m|[m [32m|[m [33m|[m 
+[31m|[m * [33m|[m [33mcommit ed070a52ee52aac731336356137c03e1d6c679fb[m
+[31m|[m [33m|[m [33m|[m Author: lassaadbaati <lassaad.baati@gmail.com>
+[31m|[m [33m|[m [33m|[m Date:   Tue Nov 19 02:25:44 2019 +0100
+[31m|[m [33m|[m [33m|[m 
+[31m|[m [33m|[m [33m|[m     Update README.md
+[31m|[m [33m|[m [33m|[m 
+[31m|[m * [33m|[m [33mcommit d875e8870e9d65ab0f65a36bb721f90201292467[m
+[31m|[m [33m|[m[33m/[m  Author: lassaadbaati <lassaad.baati@gmail.com>
+[31m|[m [33m|[m   Date:   Tue Nov 19 02:03:50 2019 +0100
+[31m|[m [33m|[m   
+[31m|[m [33m|[m       Update README.md
+[31m|[m [33m|[m   
+[31m|[m *   [33mcommit 6ec1f598628f6928457aebea996f67e22c316776[m[33m ([m[1;31morigin/testing[m[33m)[m
+[31m|[m [34m|[m[35m\[m  Merge: c98ca3d 1b25b73
+[31m|[m [34m|[m [35m|[m Author: Lassaad BAATI <lassaad.baati@gmail.com>
+[31m|[m [34m|[m [35m|[m Date:   Tue Nov 19 01:08:52 2019 +0100
+[31m|[m [34m|[m [35m|[m 
+[31m|[m [34m|[m [35m|[m     commit 10 : commit master branch resoudre conflit
+[31m|[m [34m|[m [35m|[m 
+[31m|[m [34m|[m * [33mcommit 1b25b732ac99d8e3c6544c56b64c6f60f2a80a7b[m
+[31m|[m [34m|[m [35m|[m Author: Lassaad BAATI <lassaad.baati@gmail.com>
+[31m|[m [34m|[m [35m|[m Date:   Sun Nov 17 07:34:44 2019 +0100
+[31m|[m [34m|[m [35m|[m 
+[31m|[m [34m|[m [35m|[m     commit 9 : add string in line 1 file README from branch master
+[31m|[m [34m|[m [35m|[m 
+[31m|[m [34m|[m * [33mcommit 3551ef07e6a856d436bca4b42566647c5fa419a4[m
+[31m|[m [34m|[m [35m|[m Author: Lassaad BAATI <lassaad.baati@gmail.com>
+[31m|[m [34m|[m [35m|[m Date:   Sun Nov 17 07:22:24 2019 +0100
+[31m|[m [34m|[m [35m|[m 
+[31m|[m [34m|[m [35m|[m     commit 6 : Add dir1 et dir2
+[31m|[m [34m|[m [35m|[m 
+[31m|[m [34m|[m * [33mcommit de14cedec404d32769f79b8170b38202cc522544[m
+[31m|[m [34m|[m [35m|[m Author: Lassaad BAATI <lassaad.baati@gmail.com>
+[31m|[m [34m|[m [35m|[m Date:   Tue Nov 12 17:34:45 2019 +0100
+[31m|[m [34m|[m [35m|[m 
+[31m|[m [34m|[m [35m|[m      commit 5 : update file A from master
+[31m|[m [34m|[m [35m|[m 
+[31m|[m * [35m|[m [33mcommit c98ca3d34327d7930f19038d14a0b87c47f1cd3d[m
+[31m|[m [35m|[m [35m|[m Author: Lassaad BAATI <lassaad.baati@gmail.com>
+[31m|[m [35m|[m [35m|[m Date:   Tue Nov 12 17:31:59 2019 +0100
+[31m|[m [35m|[m [35m|[m 
+[31m|[m [35m|[m [35m|[m     commit 4 : Update README.md dans la branche test
+[31m|[m [35m|[m [35m|[m 
+[31m|[m * [35m|[m [33mcommit 654e27812642d56fce34be4b261bd78ffd70ba6a[m
+[31m|[m [35m|[m[35m/[m  Author: Lassaad BAATI <lassaad.baati@gmail.com>
+[31m|[m [35m|[m   Date:   Tue Nov 12 17:29:08 2019 +0100
+[31m|[m [35m|[m   
+[31m|[m [35m|[m       commit 1 : branche test
+[31m|[m [35m|[m 
+[31m|[m * [33mcommit 6e30dcfc13c94d98adb569f5b47ffefd20ed44db[m
+[31m|[m[31m/[m  Author: Lassaad BAATI <lassaad.baati@gmail.com>
+[31m|[m   Date:   Tue Nov 12 13:34:32 2019 +0100
+[31m|[m   
+[31m|[m       Commit 2: Add files : file1 dir1/file1 AND Update README.md
+[31m|[m 
+* [33mcommit 338777936a927312975dec2a29e287002a01b851[m[33m ([m[1;32mtesting[m[33m, [m[1;32mmaster[m[33m)[m
+[35m|[m Author: Lassaad BAATI <lassaad.baati@gmail.com>
+[35m|[m Date:   Tue Nov 12 09:59:11 2019 +0100
+[35m|[m 
+[35m|[m     commit 1 : Ajout du fichier Formation Git - Partie 1.pdf
+[35m|[m 
+* [33mcommit f5f9a12da0286c06d937627a957ed0616c3bb378[m
+  Author: lassaadbaati <lassaad.baati@gmail.com>
+  Date:   Tue Nov 12 09:55:34 2019 +0100
+  
+      Initial commit
